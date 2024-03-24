@@ -1,4 +1,4 @@
-# CS3130 Assignment 1 FakeNews (Reader)
+# FakeNews (Reader)
 
 - **Due Date:** Feb 09, 2022 @ **12 NOON**
 
